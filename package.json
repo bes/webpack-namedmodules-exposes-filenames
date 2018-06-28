@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build1": "rm -rf build1 && node_modules/.bin/webpack-cli --config webpack.config.js --env.outDir=build1 --env.namedModules --bail",
+    "build2": "rm -rf build2 && node_modules/.bin/webpack-cli --config webpack.config.js --env.outDir=build2 --bail"
+  },
+  "dependencies": {
+    "uglifyjs-webpack-plugin": "^1.2.5",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.1"
+  }
+}

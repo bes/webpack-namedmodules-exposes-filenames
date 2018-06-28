@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./aliasmodule/dynamic.js"],"names":["CONSTANT"],"mappings":"oJAAA,MAAAA,EAAA","file":"1e6ee3340a8d11a70343.js","sourcesContent":["export const CONSTANT = \"I am a constant\";\n"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["dynamic-chunk"],{"./aliasmodule/dynamic.js":function(n,c,a){"use strict";a.r(c),a.d(c,"CONSTANT",function(){return o});const o="I am a constant"}}]);
+//# sourceMappingURL=http://localhost:8080/sourcemaps/5a20db3439a0d582a2f8.js.map
